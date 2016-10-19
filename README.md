@@ -1,2 +1,2 @@
 # eip
-Enterprise Integration Patters Examples
+Enterprise Integration Patterns Examples
