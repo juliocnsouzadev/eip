@@ -1,12 +1,11 @@
-# eip
-## Enterprise Integration Patterns Examples
+# Enterprise Integration Patterns Examples
 
-# File Transfer
+## File Transfer
 
-##Problema
-###Como integrar múltiplas aplicações para que possam trabalhar juntas e trocar informações?
+### Problema
+Como integrar mÃºltiplas aplicaÃ§Ãµes para que possam trabalhar juntas e trocar informaÃ§Ãµes?
 
-##Solução
-###Faça  com que  cada aplicação  produza  arquivos que  contenham  a  informação que  a outra aplicação
+### SoluÃ§Ã£o
+FaÃ§a  com que  cada aplicaÃ§Ã£o  produza  arquivos que  contenham  a  informaÃ§Ã£o que  a outra aplicaÃ§Ã£o
 precisa consumir. Integradores assumem a responsabilidade de transformar os arquivos em diferentes
-formatos. Produza os arquivos em intervalos regulares de acordo com a natureza do negócio.
+formatos. Produza os arquivos em intervalos regulares de acordo com a natureza do negÃ³cio.
