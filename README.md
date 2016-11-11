@@ -1,4 +1,4 @@
-# Enterprise Integration Patterns Examples
+# Enterprise Integration Patterns with JMS and Apache Camel
 
 ## File Transfer
 
